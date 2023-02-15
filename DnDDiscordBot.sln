@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDDiscordBot", "DnDDiscordBot\DnDDiscordBot.csproj", "{607E048B-DF99-4D1B-B601-716C0103DC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607E048B-DF99-4D1B-B601-716C0103DC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607E048B-DF99-4D1B-B601-716C0103DC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607E048B-DF99-4D1B-B601-716C0103DC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607E048B-DF99-4D1B-B601-716C0103DC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A3B9AC-800B-4233-B424-C38AEE021543}
+	EndGlobalSection
+EndGlobal
